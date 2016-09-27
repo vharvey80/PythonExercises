@@ -1,2 +1,2 @@
 # PythonExercises.github.io
-Python exercises (beginner)
+All the file in this repository are little python 3 program that I did to understand this language. 
