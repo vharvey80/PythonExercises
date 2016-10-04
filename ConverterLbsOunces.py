@@ -1,4 +1,4 @@
-# Question 1 & 3:
+# Convertisseur de livres en onces / onces en livres
 
 def Convertisseur(n_lbs, n_onces, c_lbs, c_onces):
     rn_lbs = float(format(float(n_lbs.replace(",", ".")), '.1f'))

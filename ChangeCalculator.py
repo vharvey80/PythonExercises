@@ -1,5 +1,4 @@
-# Question 2 & 4:
-# N.B. Le TA m'a confirmé que ce n'était pas grave si j'avais fais la question 2 comme la 4
+# Calcule le change d'un nombre de dollard donné.
 
 def CalculChange(d):
     r_dollar = float(format(float(d.replace(",", ".")), ".2f"))

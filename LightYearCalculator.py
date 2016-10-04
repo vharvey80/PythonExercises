@@ -1,6 +1,4 @@
-# Question 5 :
-
-#a)
+# Calcul la distance en année lumière
 
 def CalculSeconde(annees):
     n_j = (float(str(annees.replace(",", "."))) * 365.26)

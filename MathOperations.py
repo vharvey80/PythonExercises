@@ -1,5 +1,5 @@
-# Devoir 2 :
-# 3 :
+# Selon le choix de l'usager, il pourra faire 10 questions de mathématique
+# (addition ou multiplication) générée.
 
 from random import randint
 

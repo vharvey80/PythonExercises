@@ -1,5 +1,4 @@
-# Devoir 2 :
-# 4 :
+# L'usager devra répondre à 10 questions mathématiques aléatoires
 
 from random import randint
 

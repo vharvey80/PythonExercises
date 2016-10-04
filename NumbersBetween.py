@@ -1,5 +1,4 @@
-# Devoir 2 :
-# 2 :
+# Trouve tous les entiers entre deux nombres donnés par l'usager
 
 def displaybetween(a, b):
     for i in range (int(a), (int(b) + 1)):

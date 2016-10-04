@@ -1,5 +1,4 @@
-# Devoir 2 :
-#1 :
+# Calculateur d'IMC
 
 def FindBMI(kg, m):
     n_kg = (float(str(kg.replace(",", "."))))
