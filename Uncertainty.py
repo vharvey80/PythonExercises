@@ -3,7 +3,7 @@ from math import *
 def AskUser():
     nbrValeur = 0
     Vals = []
-    print("1) Calcul d'incertitude pour une : Addition ou Soustraction.")
+    print("1) Calcul d'incertitude pour une : Addition/Soustraction.")
     print("2) Calcul d'incertitude pour une : Multiplication ou Division.")
     reponse = ""
     while((reponse != "1") and (reponse != "2")):   
@@ -26,6 +26,16 @@ def AskUser():
         CountUncertainty(Vals)
     elif(reponse == "2"):
         print("Multiplication & division")
+        print("1) Multiplication. \n2) Division.")
+        reponse = ""
+        while((reponse != "1") and (reponse != "2")):   
+            reponse = input("Choisissez parmis les 2 options suivantes : ")
+        if(reponse == "1"):
+            print("\nMultiplication")
+            print("-----------------\n")
+        elif(reponse == "2"):
+            print("\nDivision")
+            print("-----------------\n")
 
 def CountUncertainty(vals):
     u_sqrt = 0
