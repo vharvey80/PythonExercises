@@ -1,4 +1,8 @@
 # Devoir 4 | Question 1
+''' Créez une fonction en Python appelée ajoute, qui prend une matrice et qui
+modifie la matrice en ajoutant 1 à tous les éléments. Créez une autre fonction Python appelée
+ajoute_V2, qui prend une matrice et qui retourne une nouvelle matrice contenant les valeurs de la
+matrice donnée comme paramètre incrémentée avec 1, sans la modifier. '''
 
 import copy
 
