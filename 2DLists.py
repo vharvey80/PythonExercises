@@ -1,4 +1,6 @@
 # Devoir 4 | Question 1
+# Vincent Harvey | 8780303
+# Oliver Benning | 7798804
 
 import copy
 
